@@ -1,4 +1,4 @@
-# Surface Projection Tool
+# BlanketJ - Surface Projection Tool
 ![GitHub release](https://img.shields.io/github/v/release/AnhMinhDo/SMPBasedMax2)
 ![Bioimage Analysis](https://img.shields.io/badge/Field-Bioimage%20Analysis-6A5ACD)
 ![Scientific Software](https://img.shields.io/badge/Type-Scientific%20Software-green)
