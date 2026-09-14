@@ -13,7 +13,7 @@
 
 | Version | Link |
 | :----:| :----:|
-| ![GitHub release](https://img.shields.io/github/v/release/AnhMinhDo/SMPBasedMax2) | [Download](https://github.com/AnhMinhDo/SMPBasedMax2/releases/download/v0.1.0-beta/SMPBasedMax_2_1.0-SNAPSHOT.jar) |
+| ![GitHub release](https://img.shields.io/github/v/release/AnhMinhDo/SMPBasedMax2) | [Download](https://github.com/AnhMinhDo/BlanketJ/releases/download/v0.1.0/BlanketJ_1.0-SNAPSHOT.jar) |
 
 
 2. In ImageJ/Fiji installation directory, paste the .jar file in the plugins directory 
