@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>SchneiderLab.tools</groupId>
-    <artifactId>SMPBasedMax2</artifactId>
+    <artifactId>BlanketJ</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <url>https://github.com/AnhMinhDo/SMPBasedMax2</url>
+    <url>https://github.com/AnhMinhDo/BlanketJ</url>
     <name>SMPBasedMax2</name>
     <description>
         An analytical tool for projecting and visualizing plant cell surface topographies
@@ -59,9 +59,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/AnhMinhDo/SMPBasedMax2.git</connection>
-        <developerConnection>scm:git:ssh://github.com/AnhMinhDo/SMPBasedMax2.git</developerConnection>
-        <url>https://github.com/AnhMinhDo/SMPBasedMax2</url>
+        <connection>scm:git:https://github.com/AnhMinhDo/BlanketJ.git</connection>
+        <developerConnection>scm:git:ssh://github.com/AnhMinhDo/BlanketJ.git</developerConnection>
+        <url>https://github.com/AnhMinhDo/BlanketJ</url>
     </scm>
     <issueManagement>
         <system>None</system>  <!-- Explicitly mark as unused -->
@@ -119,7 +119,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>SMPBasedMax_2_${project.version}</finalName>
+        <finalName>BlanketJ_${project.version}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
