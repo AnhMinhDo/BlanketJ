@@ -29,7 +29,7 @@ public class Blanket_J implements PlugIn {
 //        } catch (Exception e) {
 //            throw new RuntimeException(e);
 //        }
-        JFrame frame = new JFrame("Smooth Manifold Projection Tool");
+        JFrame frame = new JFrame("BlanketJ");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         MainModel mainModel = new MainModel(ProcessingMode.SINGLE_FILE,
                 ThemeMode.LIGHT,
